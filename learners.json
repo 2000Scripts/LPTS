@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "trey",
+        "age": 22,
+        "course": "Python",
+        "marks": [
+            76,
+            82,
+            94
+        ]
+    }
+]
